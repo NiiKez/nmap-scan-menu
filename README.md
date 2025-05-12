@@ -30,7 +30,7 @@ An interactive Bash script for performing a variety of Nmap scans through a simp
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/nmap-scan-menu.git
+git clone https://github.com/NiiKez/nmap-scan-menu.git
 cd nmap-scan-menu
 ```
 
