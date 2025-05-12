@@ -32,3 +32,27 @@ Clone this repository:
 ```bash
 git clone https://github.com/your-username/nmap-scan-menu.git
 cd nmap-scan-menu
+```
+
+Make the script executable:
+
+```bash
+chmod +x nmap_menu.sh
+```
+
+Run the script:
+
+```bash
+./nmap_menu.sh
+```
+
+
+### 🧠 Tip
+
+You can check available scripts with:
+
+```bash
+ls /usr/share/nmap/scripts/ftp*
+ls /usr/share/nmap/scripts/smb*
+```
+
