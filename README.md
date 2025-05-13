@@ -12,9 +12,9 @@ An interactive Bash script for performing a variety of Nmap scans through a simp
   - OS and version detection
   - UDP scans
   - FTP and SMB script scans
+  - Full Aggressive Stealth Scan
 - Custom scan option
-- Color-coded output
-- Supports `sudo` for privileged scans
+- Optional saving of scan output to a file
 
 ---
 
